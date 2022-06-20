@@ -16,7 +16,6 @@ Neste projeto foram trabalhados tópicos como testes com Junit, integração com
 ## Edição e Busca 
 ![dscatalog-login](https://github.com/fhilips/dscatalog/blob/main/front-web/src/assets/images/editing.gif)
 
-
 ## 🔷 Technologies<br>
 1. Spring Boot<br>
 2. Spring Data JPA<br>
@@ -34,9 +33,17 @@ Neste projeto foram trabalhados tópicos como testes com Junit, integração com
 8. Respositories<br>
 9. Exceptions<br>
 
+## Modelo conceitual
+![Modelo Conceitual](https://github.com/igor-lourenco/dscatalog/blob/master/img/Screenshot_3.png)
+
+## Padrão camadas
+![Modelo Conceitual](https://github.com/igor-lourenco/projeto-spring-react-vendas/blob/main/frontend/src/assets/img/padrao_camadas.png)
+
 ## 🔷 Built With<br>
 Spring Initializr<br>
 Maven<br>
+
+
 
 How can I test my endpoints?<br>
 
