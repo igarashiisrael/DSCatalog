@@ -1,4 +1,4 @@
-# DSCatalog
+# DSCatalog > :construction: Projeto em construção :construction:
 
 ## Sobre o Projeto
 
